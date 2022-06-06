@@ -1,5 +1,3 @@
-# warehouse-management-server-side-rimitdb
-
 # INVENTORY MANAGEMENT SYSTEM SERVER
 
 ## [Live Site Link](https://iqbal-project-3.netlify.app/)
